@@ -1,0 +1,13 @@
+input{
+  width: 100%;
+}
+.btn{
+  width: 70px;
+  align-self: center;
+}
+.container{
+  margin-top: 20px;
+}
+.btn-danger{
+  margin-left: 48px;
+}
